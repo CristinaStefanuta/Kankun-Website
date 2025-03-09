@@ -1,0 +1,14 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin-top: -50px;
+}
+.kankun-image{
+    padding-top: 0px;
+    width: 1300px;
+    height: 194.884px;
+    flex-shrink: 0;
+}
